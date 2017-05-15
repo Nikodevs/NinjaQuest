@@ -221,7 +221,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate
     func createBoss()
     {
         let bossMonster = SKSpriteNode(imageNamed: "bosssprite")
-        
+        var a = 0
     }
     
 }
