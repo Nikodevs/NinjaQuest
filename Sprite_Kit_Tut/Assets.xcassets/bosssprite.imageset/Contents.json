@@ -2,11 +2,12 @@
   "images" : [
     {
       "idiom" : "universal",
-      "scale" : "1x",
-      "filename" : "Spaceship.png"
+      "filename" : "bosssprite.png",
+      "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "bosssprite@2.png",
       "scale" : "2x"
     },
     {
